@@ -1,4 +1,5 @@
 ### Greetings! 👋 I'm Nvcsk
-**[nvcsk.com.br](https://nvcsk.com.br)**
+*Cybersecurity student*
+*Blue Team*
 
 *Feel free to explore my repositories!*
